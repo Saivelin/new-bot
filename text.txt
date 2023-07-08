@@ -1,0 +1,24 @@
+{
+"ru": {
+"welcome": "Ассаламалейкум! Выберите язык// Hello! Choose your language:",
+"subscribed": "Вы подписаны, кайфуйте!",
+"not_subscribed": "Вы не подписаны - подпишитесь на @mrchapala и попробуйте снова.",
+"error": "Произошла ошибка при проверке подписки.",
+"watch_stream": "Смотреть трансляцию",
+"donate": "Поддержать проект",
+"stream_description": "В ночь с субботы 1 июля на 2 июля в Лас-Вегасе пройдет турнир UFC Vegas 76.\n\n9 июля в Лас-Вегасе (США) пройдет турнир UFC 290. Главным событием вечера станет бой за титул чемпиона в полулегком весе между Александром Волкановски и Яиром Родригесом. Всего запланировано 13 поединков. Шоу UFC 290 пройдет на T-Mobile Arena. Трансляция раннего предварительного карда начнется в 01:00 ночи по Москве, предварительный кард начнется в 03:00, а основной кард в 05:00.",
+"support_me": "Ассаламалейкум! Я создатель бота для стримов и хочу продолжать предоставлять бесплатные трансляции для всех фанатов . Если тебе все понравилось и ты хочешь поддержать мои усилия, рассмотри возможность сделать пожертвование. Твой вклад поможет мне поддерживать плавную работу стримов и добавить еще больше захватывающих функций. Любая сумма будет оценена в высшей степени чапалахов! Большое спасибо за твою поддержку!",
+"stream_here": "Стрим здесь:"
+},
+"en": {
+"welcome": "Hello! Choose your language:",
+"subscribed": "You are subscribed, peace to you!",
+"not_subscribed": "You are not subscribed - subscribe to @mrchapala and try again.",
+"error": "An error occurred while checking the subscription.",
+"watch_stream": "Watch the stream",
+"donate": "Donate",
+"stream_description": "On the night of Saturday, July 1st to July 2nd, UFC Vegas 76 tournament will take place in Las Vegas.\n\nOn July 9th, UFC 290 will be held in Las Vegas, USA. The main event of the evening will be a title fight in the featherweight division between Alexander Volkanovski and Yair Rodriguez. A total of 13 bouts are scheduled. UFC 290 will take place at the T-Mobile Arena. The early preliminary card broadcast will start at 1:00 AM Moscow time, the preliminary card will begin at 3:00 AM, and the main card will start at 5:00 AM.",
+"support_me": "Hey there! As the creator of this awesome UFC stream bot, I want to keep providing free streams for all UFC fans out there. If you are enjoying the streams and want to support my efforts, please consider making a donation. Your contribution will help me keep the streams running smoothly and add even more exciting features. Any amount is greatly appreciated! Thanks a bunch for your support!",
+"stream_here": "Stream here:"
+}
+}
